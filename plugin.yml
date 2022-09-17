@@ -1,0 +1,7 @@
+# Plugin : By SlaxxyQC
+
+name: AdvancedCustomPotion
+version: 1.0.0
+api: 4.0.0
+main: SlaxxyQC\Custom\Main
+author: SlaxxyQC
